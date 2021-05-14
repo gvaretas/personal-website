@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.8325a306.chunk.css",
+    "main.js": "/personal-website/static/js/main.456c6fe2.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.456c6fe2.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.98f4db8c.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.98f4db8c.js.map",
+    "static/js/2.f14e9b66.chunk.js": "/personal-website/static/js/2.f14e9b66.chunk.js",
+    "static/js/2.f14e9b66.chunk.js.map": "/personal-website/static/js/2.f14e9b66.chunk.js.map",
+    "static/js/3.b19f8182.chunk.js": "/personal-website/static/js/3.b19f8182.chunk.js",
+    "static/js/3.b19f8182.chunk.js.map": "/personal-website/static/js/3.b19f8182.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "static/css/main.8325a306.chunk.css.map": "/personal-website/static/css/main.8325a306.chunk.css.map",
+    "static/js/2.f14e9b66.chunk.js.LICENSE.txt": "/personal-website/static/js/2.f14e9b66.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/personal-website/static/media/office.4b149763.jpg",
+    "static/media/Logo.module.css": "/personal-website/static/media/personal_image.bfa9bf15.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f4db8c.js",
+    "static/js/2.f14e9b66.chunk.js",
+    "static/css/main.8325a306.chunk.css",
+    "static/js/main.456c6fe2.chunk.js"
+  ]
+}
