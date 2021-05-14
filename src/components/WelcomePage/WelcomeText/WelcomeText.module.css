@@ -1,0 +1,13 @@
+.WelcomeText {
+    background-color: rgb(202, 202, 233);
+    font-size: 1.5rem;
+    width: 60%;
+    font-family: serif;
+    text-align: center;
+}
+
+.verb {
+    /* color: rgb(7, 214, 0); */
+    color: white;
+}
+

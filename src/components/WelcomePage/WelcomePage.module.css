@@ -1,0 +1,10 @@
+.WelcomePage {
+    display: flex;
+    flex-direction: column;
+    /* margin: 2rem 2rem; */
+    background-color: white transparent;
+    width: 100%;
+    margin: 2rem 0;
+    box-sizing: border-box;
+    align-items: center;
+}

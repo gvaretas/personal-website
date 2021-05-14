@@ -1,0 +1,10 @@
+.Button {
+    border-radius: 10%;
+    width: 10%;
+    padding: 10px;
+    background-color: rgb(223, 10, 10);
+    color: white;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,10 @@
+.Main{
+    box-sizing: border-box;
+    height: 100vh;
+    display: grid;
+    grid-template-areas: "header" 
+                         "main"
+                         "footer";
+    align-content: space-between;
+    /* position: relative; */
+}

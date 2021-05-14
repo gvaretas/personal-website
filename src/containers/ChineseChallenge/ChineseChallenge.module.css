@@ -1,0 +1,42 @@
+.Chinese {
+    border-width: 0.5rem;
+    border-color: orange;
+    border-style: solid;
+    text-align: center;
+    box-sizing: border-box;
+    background: url('../../assets/images/chinese-new-year.png') bottom;
+    width: 70%;
+    margin: 2rem auto;
+}
+
+.ChineseChallenge {
+    display: inline-block;
+    color: rgb(5, 2, 2);
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    align-items: center;
+    background-color: white;
+}
+
+.ChineseTitle {
+    animation: wiggle 0.5s 2 linear none;
+}
+
+
+@keyframes wiggle {
+    0% {
+        transform: rotateZ(0);
+    }
+    33%{
+        transform: rotateZ(-10deg);
+        font-size: 2.5rem;
+    }
+    66%{
+        transform: rotateZ(10deg);
+        font-size: 1.5rem;
+    }
+    100% {
+        transform: rotateZ(0deg);
+    }
+}
